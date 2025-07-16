@@ -46,15 +46,15 @@ o	Division by zero.
 
 6. Workflow
 
-1.	User enters the first and second numbers in the respective input fields.
+.	User enters the first and second numbers in the respective input fields.
 
-2.	User selects an arithmetic operation from the dropdown menu.
+.	User selects an arithmetic operation from the dropdown menu.
 
-3.	User clicks on the Calculate button.
+.	User clicks on the Calculate button.
 
-4.	The program performs the calculation and displays the result.
+.	The program performs the calculation and displays the result.
 
-5.	If there is any error (e.g., invalid input or division by zero), an appropriate error message is shown.
+.	If there is any error (e.g., invalid input or division by zero), an appropriate error message is shown.
 
  7. Sample Input/Output
   •	Sample Input:
