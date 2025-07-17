@@ -57,9 +57,10 @@ o	Division by zero.
 .	If there is any error (e.g., invalid input or division by zero), an appropriate error message is shown.
 
  7. Sample Input/Output
-  •	Sample Input:
 
-<img width="326" height="207" alt="image" src="https://github.com/user-attachments/assets/a149fba5-5053-4cec-9ce5-b23b2d9860a0" />
+
+<img width="327" height="235" alt="image" src="https://github.com/user-attachments/assets/7672319a-bf19-436b-a060-57d8ea544d3b" />
+
 
     
 Invalid input examples:
